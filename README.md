@@ -23,11 +23,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Ecommerce Web App</h3>
+<h3 align="center">Ecommerce Aplicacion Web</h3>
 <div align="center">
-<a href="https://github.com/gastonkoch/ecommerce-app" target="_blank"><img src="https://i.imgur.com/yourImage.jpg" width="400" alt="Ecommerce Web App"></a>
+<a href="https://github.com/gastonkoch/ECOMMERCE-FRONTEND-REACT" target="_blank"><img src="https://i.imgur.com/yourImage.jpg" width="400" alt="Ecommerce Web App"></a>
 <p>
-<a href="https://github.com/gastonkoch/ecommerce-app" target="_blank">
+<a href="https://github.com/gastonkoch/ECOMMERCE-FRONTEND-REACT" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -36,11 +36,11 @@
 </td>
 
 <td width="50%">
-<h3 align="center">API de Gestión Financiera</h3>
+<h3 align="center">Ecommerce Aplicacion BackEnd</h3>
 <div align="center">
-<a href="https://github.com/gastonkoch/financial-api" target="_blank"><img src="https://i.imgur.com/yourImage.jpg" width="400" alt="Financial API"></a>
+<a href="https://github.com/gastonkoch/ECOMMERCE-BACKEND-.NET" target="_blank"><img src="https://i.imgur.com/yourImage.jpg" width="400" alt="Financial API"></a>
 <p>
-<a href="https://github.com/gastonkoch/financial-api" target="_blank">
+<a href="https://github.com/gastonkoch/ECOMMERCE-BACKEND-.NET" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
