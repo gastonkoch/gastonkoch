@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="<img src="https://drive.google.com/uc?export=view&id=1A2B3C4D5E6F7G8H9I0J1K2L3M4N" alt="Banner">" alt="Banner">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0926451a1-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gaston-koch-0926451a1" target="_blank")
 [![GitHub followers](https://img.shields.io/github/followers/gastonkoch?style=social)](https://github.com/gastonkoch)
