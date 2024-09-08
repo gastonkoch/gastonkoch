@@ -6,7 +6,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0926451a1-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gaston-koch-0926451a1" target="_blank")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0926451a1-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gaston-koch-0926451a1)
 [![GitHub followers](https://img.shields.io/github/followers/gastonkoch?style=social)](https://github.com/gastonkoch)
 
 ## 🧑‍💻 Sobre mí
