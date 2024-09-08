@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/yourImage.jpg" alt="Banner">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0926451a1-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gaston-koch-0926451a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0926451a1-blue?style=social&logo=linkedin)]
 [![GitHub followers](https://img.shields.io/github/followers/gastonkoch?style=social)](https://github.com/gastonkoch)
 
 ## 🧑‍💻 Sobre mí
