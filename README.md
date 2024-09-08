@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://porfoliogastonkoch.netlify.app">Gastón Koch</a> 👋</h1>
-  <p>Desarrollador Full Stack</p>
+  <h2 style="font-weight: bold;">Desarrollador Full Stack</h2>
+
 </div>
 
 <img src="https://i.imgur.com/yourImage.jpg" alt="Banner">
