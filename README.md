@@ -15,41 +15,10 @@
 - 👨‍💻 Más de 2 años de experiencia en **desarrollo web**  
 - 🌱 Me encanta aprender nuevas tecnologías y **mejorar continuamente**
 - 💼 Actualmente trabajo como **Full Stack Developer Junior** en **Confluencia**
-- 🛠️ Habilidades: **React**, **.NET**, **SQL**, **API REST**, **Bootstrap** y más
+- 🛠️ Habilidades: **React**, **Java**, **SQL**, **API REST**, **Bootstrap** y más
 - 💬 Siempre dispuesto a colaborar en proyectos interesantes y aprender algo nuevo  
 - 💻 Mi [Portfolio](https://porfoliogastonkoch.netlify.app/)
 
-## 🚀 Proyectos
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Ecommerce Aplicacion Web</h3>
-<div align="center">
-<a href="https://github.com/gastonkoch/ECOMMERCE-FRONTEND-REACT" target="_blank"><img src="https://i.imgur.com/yourImage.jpg" width="400" alt="Ecommerce Web App"></a>
-<p>
-<a href="https://github.com/gastonkoch/ECOMMERCE-FRONTEND-REACT" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Aplicación de comercio electrónico completamente funcional con **React**, **.NET Core** y **SQL Server**.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Ecommerce Aplicacion BackEnd</h3>
-<div align="center">
-<a href="https://github.com/gastonkoch/ECOMMERCE-BACKEND-.NET" target="_blank"><img src="https://i.imgur.com/yourImage.jpg" width="400" alt="Financial API"></a>
-<p>
-<a href="https://github.com/gastonkoch/ECOMMERCE-BACKEND-.NET" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>API RESTful desarrollada con **ASP.NET Core** para gestionar pagos, cobros y análisis financieros.</p>
-</div>
-</td>
-</tr>
-</table>
 
 ## 📊 GitHub Stats
 
