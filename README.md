@@ -17,7 +17,7 @@
 - 💼 Actualmente trabajo como **Full Stack Developer Junior** en **Confluencia**
 - 🛠️ Habilidades: **React**, **Java**, **SQL**, **API REST**, **Bootstrap** y más
 - 💬 Siempre dispuesto a colaborar en proyectos interesantes y aprender algo nuevo  
-- 💻 Mi [Portfolio](https://porfoliogastonkoch.netlify.app/)
+
 
 
 ## 📊 GitHub Stats
