@@ -12,10 +12,10 @@
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiante de **Tecnicatura Universitaria en Programación** en la **UTN**  
-- 👨‍💻 Más de 2 años de experiencia en **Desarrollo Web**  
+- 👨‍💻 Más de 3 años de experiencia en **Desarrollo Web**  
 - 🌱 Me encanta aprender nuevas tecnologías y **mejorar continuamente**
-- 💼 Actualmente trabajo como **Full Stack Developer Junior** en **Confluencia**
-- 🛠️ Habilidades: **React**, **Java**, **SQL**, **API REST**, **Bootstrap** y más
+- 💼 Actualmente trabajo como **Back-END Developer**
+- 🛠️ Habilidades: **Java**, **SQL**, **API REST**, **DOCKER** y más
 - 💬 Siempre dispuesto a colaborar en proyectos interesantes y aprender algo nuevo  
 
 
