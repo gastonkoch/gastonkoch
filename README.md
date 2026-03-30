@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://porfoliogastonkoch.netlify.app" target="_blank">Gastón Koch</a>👋</h1>
-  <h2 style="font-weight: bold;">Desarrollador Full Stack</h2>
+  <h2 style="font-weight: bold;">Desarrollador Back-End</h2>
 
 </div>
 
@@ -14,7 +14,7 @@
 - 🎓 Estudiante de **Tecnicatura Universitaria en Programación** en la **UTN**  
 - 👨‍💻 Más de 3 años de experiencia en **Desarrollo Web**  
 - 🌱 Me encanta aprender nuevas tecnologías y **mejorar continuamente**
-- 💼 Actualmente trabajo como **Back-END Developer**
+- 💼 Actualmente trabajo como **Back-End Developer**
 - 🛠️ Habilidades: **Java**, **SQL**, **API REST**, **DOCKER** y más
 - 💬 Siempre dispuesto a colaborar en proyectos interesantes y aprender algo nuevo  
 
