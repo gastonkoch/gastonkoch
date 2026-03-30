@@ -19,16 +19,4 @@
 - 💬 Siempre dispuesto a colaborar en proyectos interesantes y aprender algo nuevo  
 
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-<a href="https://github.com/gastonkoch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gastonkoch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonkoch&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
----
-
 ¡Gracias por visitar mi perfil! No dudes en contactarme para proyectos, colaboración o cualquier pregunta 😊
